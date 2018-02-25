@@ -2220,7 +2220,7 @@ a.de-button.large.rounded, span.de-button.large.rounded, input[type=submit].larg
 /* ----------------------------------------------*/
 /* 09.3 Donate			 					 	 */
 /* ----------------------------------------------*/
-img.donate-button {
+.donate-button {
   margin: 20px auto;
 }
 
