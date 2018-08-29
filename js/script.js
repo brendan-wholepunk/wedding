@@ -483,7 +483,7 @@
 	// 06.2 Countdown
 	//================================================================================
 	var theday = new Date();
-	theday = new Date(2018, 9, 2);
+	theday = new Date(2018, 8, 2);
 	$('.countdown').countdown({until: theday, format: 'DHMS'});
 	
 	
